@@ -1,4 +1,4 @@
-1. Predicting MPG based on features of cars from UCI machine learning repository http://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+1. Predicting MPG based on features of cars from UCI machine learning repository http://archive.ics.uci.edu/ml/datasets/Auto+MPG
 
 2. Classification of wine from UCI machine learning repository: http://archive.ics.uci.edu/ml/datasets/Wine
 
