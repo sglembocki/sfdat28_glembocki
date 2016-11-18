@@ -28,3 +28,4 @@ Currently, a Naive Bayes model has been developed that produced an accuracy of ~
     - Exclude all words that are not English
     - Try different ngrams
     - Try different models and compare
+    - Bring in car alerts occuring at the time of service
